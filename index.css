@@ -1,0 +1,93 @@
+body {
+    background: #5b5b5b;
+    color: #FFF;
+    font-family: "trebuchet ms", verdana, arial;
+    font-size: 14px;
+    background-image: url(jezael-melgoza-2ktKz6CnNk0-unsplash.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 0;
+    margin: 0;
+    overflow-y: auto;
+}
+
+#Content {
+    max-width: 800px;
+    background-color: #000000ba;
+    backdrop-filter: blur(15px);
+    padding: 10px;
+    padding-top: 0px;
+    margin-left:220px;
+    /* margin-right:0; */
+    margin-top: 0;
+    margin-bottom: 25vh;
+}
+
+#TableOfContents {
+    background-color: #000000f5;
+
+    backdrop-filter: blur(15px);
+    padding: 10px;
+    position: fixed;
+    top:72px;
+    left:4px;
+    width: 180px;
+    overflow-y: auto;
+    max-height: 80vh;
+}
+#TableOfContents a{
+    display: block;
+    padding: 4px;
+    padding-left: 10px;
+    transition: padding-left ease-in-out 0.15s, background-color ease-in-out 0.15s;
+ 
+    color: #f5f5f5;
+}
+
+#TableOfContents a:hover{
+
+    padding-left: 5px;
+    background-color: #000000ff;
+    color: #fff;
+}
+
+h1 {
+    font-size: 24px;
+     margin-top: 0;
+    margin-left: -22px;
+    background: #000000;
+    padding: 18px;
+}
+
+pre {
+    padding: 10px;
+    border: 1px solid #FFF;
+}
+
+p {
+    color: #FFF;
+}
+.blog-entry{
+    margin-bottom: 80px;
+     padding-top: 3.5px;
+}
+a{
+    color:#fff;
+}
+.DScriptTitle{
+    position: fixed;
+    top: 4px;
+    padding-top: 12px;
+    padding-left: 10px;
+    padding-right: 0;
+    left: 4px;
+    width: 190px;
+    background-color: #000000ba;
+    height: 52px;
+    font-size: 18px;
+}
+
+blockquote{
+    border-left: 4px solid white;
+    padding-left: 8px;
+}
