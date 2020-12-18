@@ -1,6 +1,6 @@
 # Story
 
-![Dan Harmon's Story Circle](../circles.png)
+![Dan Harmon's Story Circle](./circles.png)
 
 ### Dan Harmon's Story Circle
 
