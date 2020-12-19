@@ -9,6 +9,8 @@ Fireball - Toss a fireball into an urn. This is tricky because the fireball is a
 Birds Eye - Ability allows you to see things from a bird's eye perspective. Helps players navigate the various mazes and is required in certain mazes with visual puzzle elements.
 Ice Grapple - Will launch the player towards any icy surfaces. 
 
+Once you gain a new ability an animation plays that illustrates how you will use it. 
+
 ## Collectables
 
 Professor's Notes
