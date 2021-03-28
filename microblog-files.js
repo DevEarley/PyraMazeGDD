@@ -2,6 +2,7 @@
 
 (function () {
     let files = [
+        'todo.md',
         'introduction.md',
         'characters.md',
         'story.md',
