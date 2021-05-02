@@ -1,5 +1,20 @@
 # Story A to B
 
+## High level - 3 Story Arcs, so 3 loops. 
+
+1) The Jungle
+- Unlock your potential. Learn about the different abilities you can gain. Begin to understand how this is bigger than you.
+- You have to sign up for this challenge. There is no going back. 
+
+2) The Mountain
+- Unlock your heart. Learn about the perspective the other dimensionals. Start to empathize with them and you start to take responsibility of their problems.
+- You have to go to the future, you will never come back to this life again. 
+
+3) The City
+ - Unlock your perspective/mind. Meet Professor. Learn about impossible people. Feel prejudice because you work at the resort. Discover the HUB and meet Warp.
+ - You have to give up the life you have become used to.
+- Each time the loop ends, it returns you to the HUB. you can always go back to the city. If you do, the people may have new things to say to you.
+
 ## Start - Tiny intro area. Small scene with some basic platforming. Get feel for controls and menu.
 
 Ideas for sounds:
@@ -20,6 +35,13 @@ Dimensionals:
 - TimeWarp can teleport things between times.
   - Chip will slip into another Chip's life in the future. They both live in a resort and tend to a greenhouse. Chip JR is in the future off on a mission. Chip SR is from the past and looks just like Chip JR.
     - The fact the Chip JR looks like Chip SR and that they have a similar occupation makes Chip ideal for this task.
+
+HUB
+- Under the city. A small river runs underground. If you follow it, you will reach the HUB. The HUB links the city to all different parts of the world. 
+
+- Each spoke of the HUB takes the player to another corner of the world.
+
+- The Jungle, The City, The Mountain, The Graveyard, The HUB Entrance, TBD...
 
 Impossible people
 - Built all of this for you. because you best fit their plans. They need to make sure you are ready.
@@ -43,11 +65,16 @@ That night triggers the "Supernatural Aid" and the Final call to adventure.
 
 ## Threshold Guardians & Threshold - You need to learn how to break from your loop. 
 
+You have to learn how to be in the right place at the right time.
+
 # Mentor & Helper
 You and the professor embark on a journey together. 
 
 # Need or desire is clearly defined
 You start to get a hint that you are special for some reason.
+
+# Temptation
+What is the temptation?
 
 # Only Helper
 You are separated from the Professor and all you have are the Dimensionals.
@@ -62,15 +89,18 @@ You find Warp's graveyard.
 
 # Transform
 
-# Atonement (Get what they wanted)
+# Atonement (Get what they wanted - You have to give up something. You have to make a personal sacrifice)
 You thought all of these abilities came without a cost. But you were wrong. You are now DESTINED to fix this dimension. You don't have a way out. The Impossible people made it clear, you always had a choice to back out. Now you do not have that choice. And they warned you.
 
-# But Pay a price 
+# But Pay a price (ANOTHER personal sacrifice)
 Your freedom is gone. Your life in the 40's is over. The plants in the greenhouse wither and die. The space is converted into a chlorine pool and bar. 
 
-# Gift of the Goddess  
+# Gift of the Goddess  (A lack-luster pay off that you will have to make the best of.)
+You get to go to the future. You have to sign a contract stating that you will not tell anyone from the past and that you are aware that you cannot and should not come back to the past with the information you have gained from the future. 
 
+# Return to the city and prepare to face new challenges
 
+# Each time we try to call 
 
 
 
@@ -133,13 +163,8 @@ Restaurant
 Boardwalk
 - 3400 Earley
 Retail & Restaurant
-
-
-
-
-How do we implement timed sequences and having a watch?
-
-Actors need to move around based on the time.
+- 4200
+The "Old House" - Owners are unknown.
 
 
 // Time based actor pattern
