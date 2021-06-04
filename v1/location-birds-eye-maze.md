@@ -1,12 +1,9 @@
 # Bird's Eye Maze
-
 Bird's eye is useful. It's optional to start, but required to finish.
-
 What is the "Hero's Journey" for Bird's Eye?
 
 ## Call to Adventure
 You dream about some strange patterns that you noticed around town. You wake up after dreaming about people chasing you on a boat. The last thing you remember is climbing a seemingly impossible staircase up and up trying to get to your cabin. 
-
 
 ## Threshold
 You need to break away from your normal loop.
@@ -20,7 +17,7 @@ You meet the Professor and Warp
 
 
 ## Just Helper
-You loose the Professor
+You loose the Professor.
 
 
 ## Make Sacrifice
@@ -31,7 +28,12 @@ You quit your job.
 An orange bird flies around you and quickly zooms up to the sky. The camera follows and you are now looking down from above. This will help you solve puzzles and gain a new perspective.
 
 ## Make another sacrifice
-You also have to leave the greenhouse behind. You will miss it.
+You also have to leave the greenhouse behind. You will miss it. You go back to collect you belongings and say goodbyes. You arrange for a local kid to take care of it for you while you are gone. " Just water them and try to keep them from dying. If you have any trouble ask Fritz at the bar. He will know what to do.
 
 
-## Return with changes
+## Return, changed.
+ Go back to the greenhouse to take have one last night in your bed. When you awake, you go straight into the hub and you meet the professor, who has some coffee for you.
+
+ Time to get going. Where do you want to start?
+
+ Jungle? Mountain? Desert? Island?

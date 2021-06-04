@@ -21,6 +21,7 @@ Ideas for sounds:
 - Mini should have variations of 5 syllables, 7 and 5. 
 
 Ideas for a consequences:
+- 
 - City is sinking into the sea. You need to find out why.
 - You learn about the dimensionals and you grow to care about them.
 - You want to help the professor.
@@ -168,7 +169,7 @@ The "Old House" - Owners are unknown.
 
 
 // Time based actor pattern
-// .schedule is almost like .go[time]
+// .go[time]
 // if the time is 930 or 2430, then you will go to the 1100 marker.
 // if the time is 1030 then you will go to the 1000 marker. 10oclock wont work. 10 wont work. 
 
@@ -177,7 +178,12 @@ The "Old House" - Owners are unknown.
 // hmm.ss.mmm
 // hmm
 
-.schedule
+.go[time]
+//asleep in bed
+\\930
+//wake up
+
+
 \\1000
 .call[move, actor123, location456]
 .call[animate, actor123, sleep]
