@@ -1,5 +1,6 @@
 # Bird's Eye (look down from a high point, fixed to the player)
  - Third Eye (secrets are highlighted to you)
+ - Shadow Eye ( See the Vacuum Realm. )
 
 # Fireball (single fire ball that burns out after awhile)
  - Firebomb (bomb that explodes after a short period)
@@ -20,4 +21,3 @@
  - Turn into a ball while speed grappling to fly like a projectile. 
  
 
- 
